@@ -1,13 +1,13 @@
 ## Introduccion
-Proyecto final de Algooritmo y estructuras de datos. El objetivo es dada una matriz de '1','0'y'x', donde los '1' representan nodos por donde 
+Proyecto final de Algoritmo y estructuras de datos. El objetivo es dada una matriz de '1','0'y'x', donde los '1' representan nodos por donde 
 tiene que pasar un Drone, los '0' accesibles y 'x' obstaculos, se deben encontrar TODOS los caminos Hamiltonianos posibles utilizando algoritmos de busqueda en amplitud y profundidad, luego de encontrar los caminos se debe seleccionar el mas corto y devolverlo por consola.
 
 ### Caracteristicas
-- Algoritmos de busqueda en amplitud y en profundidad
+- Algoritmos de busqueda en amplitud y en profundidad.
 - IF / FOR  
-- colas y pilas
-- direccionamiento de memoria
-- grafos
+- colas y pilas.
+- direccionamiento de memoria.
+- grafos.
 
 Para ejecutar correctamente asegurate de configurar bien la siguiente linea 
 ```
