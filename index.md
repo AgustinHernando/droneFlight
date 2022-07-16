@@ -13,10 +13,19 @@ Para ejecutar correctamente asegurate de configurar bien la siguiente linea
 ```
 string fileName = "D:\\YOUR_PATH\\test\\txtMap.txt";.
 ```
+#### Analizando la consola...
 ![imagen 1](\assents\imagen1.png)
-El programa lee el txt y represemta los nodos en la imagen 1.
-![Image](\assents\imagen1.png)
-Ademas procesa separa los obstaculos en una nueva matriz, imagen 2. 
-![Image](\assents\imagen1.png)
 
-![Image](\assents\imagen1.png)
+- El programa separa los nodos en un nueva matriz, imagen 1.
+![Imagen 2](\assents\imagen3.png)
+
+- Cada nodo lo define como un vertice, imagen 2
+![Imagen 3](\assents\imagen2.png)
+
+- Ademas procesa separa los obstaculos en una nueva matriz, imagen 2. 
+![Imagen 4](\assents\imagen4.png)
+
+- Analiza los posibles caminos que no sean interferidos por ningun obstaculo.
+- Luego, nos muestra por consola el camino hamiltoniano mas corto.
+
+![Imagen 5](\assents\imagen1.png)
