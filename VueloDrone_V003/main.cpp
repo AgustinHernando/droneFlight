@@ -31,7 +31,7 @@ int main() {
 
     //obtencion de la matriz mediante un archivo de texto externo
     //cada bit separado por un espacio
-    string fileName = "C:\\Test\\txtMap.txt";
+    string fileName = "D:\\YOUR_PATH\\test\\txtMap.txt";
     fstream file;
     file.open(fileName.c_str());
     string word = "";
