@@ -28,4 +28,3 @@ string fileName = "D:\\YOUR_PATH\\test\\txtMap.txt";.
 - Analiza los posibles caminos que no sean interferidos por ningun obstaculo.
 - Luego, nos muestra por consola el camino hamiltoniano mas corto.
 
-![Imagen 5](\assents\imagen1.png)
