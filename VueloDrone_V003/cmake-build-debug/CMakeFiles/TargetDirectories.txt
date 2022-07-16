@@ -1,3 +1,0 @@
-D:/Mis cosas/1-Facultad/3ER ANIO UNC COMPUTACION/1-AyEDatos/proyecto 3/VueloDrone_V003/cmake-build-debug/CMakeFiles/VueloDrone_V00.dir
-D:/Mis cosas/1-Facultad/3ER ANIO UNC COMPUTACION/1-AyEDatos/proyecto 3/VueloDrone_V003/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Mis cosas/1-Facultad/3ER ANIO UNC COMPUTACION/1-AyEDatos/proyecto 3/VueloDrone_V003/cmake-build-debug/CMakeFiles/rebuild_cache.dir
