@@ -16,7 +16,7 @@ string fileName = "D:\\YOUR_PATH\\test\\txtMap.txt";.
 #### Analizando la consola...
 ![imagen 1](/assets/imagen1.png)
 
-- El programa separa los nodos en un nueva matriz, imagen 1.
+- El programa separa los nodos en una matriz, imagen 1.
 
 
 ![Imagen 2](/assets/imagen3.png)
@@ -26,11 +26,11 @@ string fileName = "D:\\YOUR_PATH\\test\\txtMap.txt";.
 
 ![Imagen 3](/assets/imagen2.png)
 
-- Ademas procesa separa los obstaculos en una nueva matriz, imagen 2.
+- Además, procesa y separa los obstaculos en una nueva matriz, imagen 2.
 
 
 ![Imagen 4](/assets/imagen4.png)
 
 - Analiza los posibles caminos que no sean interferidos por ningun obstaculo.
-- Luego, nos muestra por consola el camino hamiltoniano mas corto.
+- Luego, nos muestra por consola el camino hamiltoniano más corto.
 
