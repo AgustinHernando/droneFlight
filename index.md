@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Introduccion
+Proyecto final de Algooritmo y estructuras de datos. El objetivo es dada una matriz de '1','0'y'x', donde los '1' representan nodos por donde 
+tiene que pasar un Drone, los '0' accesibles y 'x' obstaculos, se deben encontrar TODOS los caminos Hamiltonianos posibles utilizando algoritmos de busqueda en amplitud y profundidad, luego de encontrar los caminos se debe seleccionar el mas corto y devolverlo por consola.
 
-You can use the [editor on GitHub](https://github.com/AgustinHernando/droneFlight/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Caracteristicas
+- Algoritmos de busqueda en amplitud y en profundidad
+- IF / FOR  
+- colas y pilas
+- direccionamiento de memoria
+- grafos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Para ejecutar correctamente asegurate de configurar bien la siguiente linea 
 ```
+string fileName = "D:\\YOUR_PATH\\test\\txtMap.txt";.
+```
+![imagen 1](\assents\imagen1.png)
+El programa lee el txt y represemta los nodos en la imagen 1.
+![Image](\assents\imagen1.png)
+Ademas procesa separa los obstaculos en una nueva matriz, imagen 2. 
+![Image](\assents\imagen1.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AgustinHernando/droneFlight/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Image](\assents\imagen1.png)
