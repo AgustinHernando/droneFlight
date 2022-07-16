@@ -17,12 +17,18 @@ string fileName = "D:\\YOUR_PATH\\test\\txtMap.txt";.
 ![imagen 1](/assets/imagen1.png)
 
 - El programa separa los nodos en un nueva matriz, imagen 1.
+
+
 ![Imagen 2](/assets/imagen3.png)
 
 - Cada nodo lo define como un vertice, imagen 2
+
+
 ![Imagen 3](/assets/imagen2.png)
 
-- Ademas procesa separa los obstaculos en una nueva matriz, imagen 2. 
+- Ademas procesa separa los obstaculos en una nueva matriz, imagen 2.
+
+
 ![Imagen 4](/assets/imagen4.png)
 
 - Analiza los posibles caminos que no sean interferidos por ningun obstaculo.
